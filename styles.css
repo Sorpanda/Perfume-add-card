@@ -143,6 +143,11 @@ gap: 1rem;
     gap: 1rem;
 }
 
+.button:hover{
+    background-color: var(--hover-color);
+    cursor: pointer;
+}
+
 footer{
     margin-top: 2rem;
     justify-self: center;
